@@ -1,0 +1,41 @@
+.container {
+  width: 800px;
+  height: 500px;
+  border: 1px solid black;
+  margin: 0px auto;
+}
+
+.greenblock {
+  background-color: green;
+  width: 50%;
+  height: 200px;
+  float: left;
+}
+
+.blueblock {
+  background-color: blue;
+  width: 50%;
+  height: 200px;
+  float: right;
+}
+
+.greyblock {
+  background-color: grey;
+  width: 33.33%;
+  height: 300px;
+  float: left;
+}
+
+.blackblock {
+  background-color: black;
+  width: 33.33%;
+  height: 300px;
+  float: left;
+}
+
+.orangeblock {
+  background-color: orange;
+  width: 33.33%;
+  height: 300px;
+  float: right;
+}
